@@ -1,2 +1,3 @@
 # codenotepad.github.io
-codestudy 
+# codestudy 
+# firstday
