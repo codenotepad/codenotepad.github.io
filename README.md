@@ -1,2 +1,2 @@
 # codestudy firstday
-> HTML CSS JAVASCRIPT
+> HTML<br>CSS<br>JAVASCRIPT
